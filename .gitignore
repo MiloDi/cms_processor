@@ -1,3 +1,7 @@
+# Execution files
+process/hospital_data
+run_metadata.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
